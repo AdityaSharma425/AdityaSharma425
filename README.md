@@ -1,62 +1,50 @@
-# Hi there, I'm Aditya Sharma 👋
+<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
-### Software Engineer | Full Stack Developer | UI/UX Enthusiast
-
-Passionate about building scalable, high-performance, and user-centric web applications with modern frontend and backend technologies. Experienced in conversational AI interfaces, CRM systems, real-time APIs, and workflow automation. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaSharma425&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AdityaSharma425?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AdityaSharma425?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech CSE student at Lovely Professional University
-* 💻 Full Stack Developer focused on scalable applications
-* ⚡ Skilled in React, TypeScript, Django, Node.js, and modern web architectures
-* 🎨 Passionate about UI/UX Design and interactive experiences
-* 🧠 Interested in AI-powered systems, automation, and distributed architectures
-* 🏆 National Runner-Up at Sopra Steria ISC 2025
+- 🎓 B.Tech CSE Student at Lovely Professional University
+- 💻 Full Stack Developer passionate about scalable applications
+- ⚡ Skilled in React, TypeScript, Django, Node.js, and distributed systems
+- 🎨 UI/UX Enthusiast with experience in Figma and product design
+- 🧠 Interested in AI systems, automation, and backend architectures
+- 🏆 National Runner-Up at Sopra Steria ISC 2025
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-* Python
-* JavaScript
-* TypeScript
-* C++
-* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,mysql" />
+</p>
 
-### Frontend
+## 🎨 Frontend
 
-* React.js
-* Next.js
-* Tailwind CSS
-* Redux
-* Zustand
-* HTML5
-* CSS3
-* Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,figma" />
+</p>
 
-### Backend & Databases
+## ⚙️ Backend & Databases
 
-* Node.js
-* Express.js
-* Django
-* REST APIs
-* MongoDB
-* PostgreSQL
-* Supabase
-* Prisma
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,supabase" />
+</p>
 
-### DevOps & Tools
+## ☁️ DevOps & Tools
 
-* Docker
-* Redis
-* RabbitMQ
-* Celery
-* Git
-* Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,redis,rabbitmq,git,linux" />
+</p>
 
 ---
 
@@ -64,53 +52,85 @@ Passionate about building scalable, high-performance, and user-centric web appli
 
 ## 🔹 MiniCRM Platform
 
-**Tech:** Next.js, Node.js, MongoDB, Redis, OpenAI API
+🚀 Full-stack CRM platform with analytics and automation.
 
-* Built a full-stack CRM platform supporting real-time campaign operations
-* Integrated AI-powered automation using OpenAI APIs
-* Implemented asynchronous processing pipelines with Redis
-* Developed real-time analytics dashboards
+### Tech Used
+`Next.js` `Node.js` `MongoDB` `Redis` `OpenAI API`
+
+### Features
+- AI-powered campaign automation
+- Real-time analytics dashboard
+- Background processing pipelines
+- Marketing workflow automation
 
 ---
 
 ## 🔹 Welthy – AI Personal Finance Platform
 
-**Tech:** Next.js, React, Supabase, Prisma
+💰 AI-powered finance management application.
 
-* Built an AI-powered finance management platform
-* Implemented secure authentication and serverless APIs
-* Designed responsive dashboards and analytics features
-* Integrated event-driven workflows using Inngest and Arcjet
+### Tech Used
+`Next.js` `React` `Supabase` `Prisma`
+
+### Features
+- Expense tracking
+- Financial insights & analytics
+- Secure authentication
+- Event-driven workflows using Inngest
 
 ---
 
 # 🏆 Achievements
 
-* 🥈 National Runner-Up – Sopra Steria ISC 2025
-* ☁️ Cloud Computing Certification – NPTEL SWAYAM (IIT Kharagpur)
+- 🥈 National Runner-Up – Sopra Steria ISC 2025
+- ☁️ NPTEL Cloud Computing Certification – IIT Kharagpur
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=AdityaSharma425&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma425&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-```
+<p align="center">
+  <img width="70%" 
+       src="https://streak-stats.demolab.com?user=AdityaSharma425&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSharma425&theme=tokyo-night&hide_border=true)](https://github.com/AdityaSharma425)
 
 ---
 
 # 🌐 Connect With Me
 
-* 📧 [adityasharma422k5@gmail.com](mailto:adityasharma422k5@gmail.com)
-* 💼 LinkedIn:
-  [Aditya Sharma LinkedIn](https://www.linkedin.com/in/aditya-sharma-42as/?utm_source=chatgpt.com)
+<p align="left">
+<a href="https://linkedin.com/in/aditya-sharma-42as" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:adityasharma422k5@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
-# ✨ Fun Fact
+# ⚡ Fun Fact
 
 > I enjoy building scalable products that combine great UI/UX with strong backend architecture and automation systems.
+
+---
+
+<div align="center">
+
+### 💻 "Code. Design. Build. Scale."
+
+</div>
